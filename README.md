@@ -37,7 +37,7 @@
 <img src="https://drive.google.com/uc?id=1sRTG_p-Xezl2NR5zdQBrk1wBVZLDNp5E" alt="Image -1">
 <p>Boxplot for Math Score</p>
 <img src="https://drive.google.com/uc?id=1nOKp4_F0WHFO6XvV1nw67VFASacLkIMi" alt="Image -2">
-<p>Note: Replace Data_Analysis_Output.png with the actual filename of the output screenshot.</p>
+
 <img src="https://drive.google.com/uc?id=1tIjz21dg4GRRbrpJiysDSF1WPlo8BLvm" alt="Image -3">
 <img src="https://drive.google.com/uc?id=1Q08cTHqtNzU7iSy8u15yxkqEsaV48OCM" alt="Image -4">
 <img src="https://drive.google.com/uc?id=1NO7qtSi5LZfkw89ZlDPUeSPylIu1CXF5" alt="Image -5">
