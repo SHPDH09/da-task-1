@@ -1,4 +1,4 @@
-<h1>Participant Information</h1>
+<h1>Internship Program</h1>
 <h2>Name: Raunak Kumar</h2>
 <h2>ID: CT08DS1525</h2>
 <h2>Domain: Data Analysis</h2>
